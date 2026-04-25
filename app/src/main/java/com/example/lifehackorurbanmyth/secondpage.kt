@@ -1,3 +1,10 @@
+/**
+ * Project: Life Hack or Urban Myth
+ * Student Name: DeAndre Kelly
+ * Student Number:ST10517479
+ */
+
+
 package com.example.lifehackorurbanmyth
 
 import android.content.Intent
